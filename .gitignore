@@ -198,6 +198,9 @@ pyrightconfig.json
 # Dataset directory
 input/
 
+# Documentation files
+Documentation/
+
 # Built Visual Studio Code Extensions
 *.vsix
 
