@@ -204,6 +204,9 @@ Documentation/
 # Built Visual Studio Code Extensions
 *.vsix
 
+# Saved Model
+model.h5
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
