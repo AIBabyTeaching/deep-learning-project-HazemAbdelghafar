@@ -205,7 +205,7 @@ Documentation/
 *.vsix
 
 # Saved Model
-model.h5
+*.h5
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
